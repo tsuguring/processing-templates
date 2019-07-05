@@ -3,6 +3,7 @@
 TODO: 簡単なテニスゲームを作ってみました。
 
 ## Installation
+githubでtsuguring/processing_templatesをcloneしてください。
 
 
 
