@@ -1,4 +1,4 @@
-# processing_templates
+# processing-templates
 
 TODO: 簡単なテニスゲームを作ってみました。
 
